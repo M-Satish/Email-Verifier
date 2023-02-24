@@ -7,8 +7,8 @@ It will verify the actual existence of an email address using MX-Records and Sim
 •	Numeric scores.
 ## Dependencies
 •	Mendix modeler 9.2.0.
-Configuration
-•	Go to the URL to get the API key, URL:https://apilayer.com/marketplace/email_verification
+## Configuration
+•	Go to the URL to get the API key, URL:https://apilayer.com/marketplace/email_verification<br>
 •	The API key should be placed in the default value of APIKey constant.
 ## Known bugs
 None
