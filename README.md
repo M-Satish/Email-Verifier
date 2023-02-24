@@ -1,7 +1,7 @@
 # Email-Verifier
 
 This module makes it easier to validate and check email addresses. The email address is verified using a connection to APILayer Email verification API.
-It will verify the actual existence of an email address using MX-Records and Simple Mail Transfer Protocol (SMTP). It also gives,
+It will verify the actual existence of an email address using MX-Records and Simple Mail Transfer Protocol (SMTP). It also checks,<br>
 •	Typo checks.<br>
 •	Did you mean suggestions.<br>
 •	Numeric scores.
